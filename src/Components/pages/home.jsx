@@ -132,20 +132,20 @@ export default class Home extends Component {
 
 
              <div className='quotesection'>
-<div className='svg'>
-<img src={left} />
-</div>
-<div className='quotecontent'>
-  <p>
-  Did you know that ‘Neutrinos’ are sub-atomic particles born
-from astrophysical events and travels at the speed of light…
-Our associates are just like these dynamic Neutrinos<br />
-– Lightening Fast and Lightweight
-  </p>
-  </div>
-  <div className='svg'>
-<img src={right} />
-</div>
+                <div className='svg'>
+                <img src={left} />
+                </div>
+                <div className='quotecontent'>
+                  <p>
+                  Did you know that ‘Neutrinos’ are sub-atomic particles born
+                from astrophysical events and travels at the speed of light…
+                Our associates are just like these dynamic Neutrinos<br />
+                – Lightening Fast and Lightweight
+                  </p>
+                  </div>
+                  <div className='svg'>
+                <img src={right} />
+                </div>
              </div>
 
               <div className='optionsection'>
@@ -229,9 +229,6 @@ Our associates are just like these dynamic Neutrinos<br />
               <h2>Hear it from our Clients...</h2>
               </div>
               </div>
-
-
-
 
               <div className='footer-container'>
               <div className='footerstarthere'>
