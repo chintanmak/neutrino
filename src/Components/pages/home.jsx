@@ -26,12 +26,7 @@ export default class Home extends Component {
               <img src={headerimg} />
         
               <div className='header-contain'>
-                <p>DELIVERING<br />
-                EXCELLENCE<br />
-                WITH<br />
-                INNOVATION<br />
-                IN EVERY<br />
-                STEP</p>
+                <p>DELIVERING EXCELLENCE WITH INNOVATION IN EVERY STEP</p>
               </div>
               
               <div>
